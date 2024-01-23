@@ -1,0 +1,12 @@
+#ifndef CONSTANTS_HPP
+#define CONSTANTS_HPP
+
+/*
+
+CONSTANTS USED IN THE DATASTRUCTURES LIB
+
+*/
+
+#define NOT_FOUND -1
+
+#endif
